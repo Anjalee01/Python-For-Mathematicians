@@ -1,0 +1,10 @@
+#PYTHON FOR MATHEMATICIANS
+#Assignment # 1
+#List down the name of real-world math specific python applications. ( /10)
+
+
+Answer
+Anaconda – A distribution that comes with many math-related libraries (like NumPy, SciPy, etc.), making it easier to use for mathematical computations.
+SageMath – A mathematical software system that integrates various Python libraries and tools for real-world use in algebra, calculus, and number theory.
+
+
