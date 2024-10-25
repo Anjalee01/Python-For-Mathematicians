@@ -4,6 +4,8 @@
 
 # PYTHON FOR MATHEMATICIANS
 # Assignment # 4
+
+
 # Ask for the user’s first name and display the output message Hello [First Name].
 
 name = input("Enter your name: ")
@@ -15,7 +17,6 @@ surname = input("Enter your surname: ")
 print(f'Hello, {name} {surname}')
 
 # Write code that will display the joke “what do you call a bear with no teeth?” and on the next line display the answer “A gummy bear!” Try to create it using only one line of code.
-
 print("What do you call a bear with no teeth?\nA gummy bear!")
 
 # Ask the user to enter three numbers. Add together the first two numbers and then multiply this total by the third. Display the answer as The answer is [answer].
@@ -47,6 +48,7 @@ seconds = minutes * 60
 print("Hours:", hours)
 print("Minutes:", minutes)
 print("Seconds:", seconds)
+
 # Ask the user to enter their first name and surname is lower case. Change the case to title case and join them together. Display the finished result.
 first_name = input("Enter your first name in lowercase: ").title()
 surname = input("Enter your surname in lowercase: ").title()
