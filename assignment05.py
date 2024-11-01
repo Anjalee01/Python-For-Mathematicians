@@ -15,13 +15,10 @@
 
 
 
-
-
-
-# for i in range(5):
-#     num = int(input("Enter an integer: "))
-#     square = num**2
-#     print(f"The square of {num} is {square}")
+for i in range(5):
+     num = int(input("Enter an integer: "))
+     square = num**2
+     print(f"The square of {num} is {square}")
     
 
 
