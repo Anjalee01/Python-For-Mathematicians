@@ -1,6 +1,8 @@
 # PYTHON FOR MATHEMATICIANS
 # Assignment # 2
-# What is the purpose of indentation in Python?		( /5)
+# What is the purpose of indentation in Python?		
+
+
 
 # The purpose of indentation is to define where the code blocks end and start. Like if we are using loops, conditions and fuctions ide
 
